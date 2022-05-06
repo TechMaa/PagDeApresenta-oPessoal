@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Kayah Li
+- Font Author: Copyright 2017-2019 Google LLC. All Rights Reserved.
+- Font Source: http://fonts.gstatic.com/s/notosanskayahli/v14/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3CZH4EXLuKVM.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
